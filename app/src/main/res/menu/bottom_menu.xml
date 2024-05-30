@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/adddata"
+        android:icon="@drawable/ic_add_person"
+        android:title="@string/add_data" />
+
+    <item
+        android:id="@+id/list"
+        android:icon="@drawable/ic_list"
+        android:title="@string/list_siswa" />
+
+</menu>
